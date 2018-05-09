@@ -60,7 +60,9 @@ distinguished from _event metadata_ by the fact that they may be
 conceptually shared between two events.
 
 Briefly, and non-normatively, event context attributes are data about
-the representation of the event data within the event.
+the representation of the event data within the event, not about the
+event itself, nor about the event data itself, nor about the occurrence
+the event describes.
 
 ## Event Data
 
