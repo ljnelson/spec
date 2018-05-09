@@ -48,8 +48,8 @@ _Event metadata_ are event attributes concerning details about the
 event itself, such as aspects related to its transmission and location
 in time.
 
-Briefly, and non-normatively, event metadata are data about the event,
-not the occurrence it describes.
+Briefly, and non-normatively, event metadata are data about _the event
+itself_, not the occurrence it describes.
 
 ### Event Context Attributes
 
@@ -60,7 +60,7 @@ distinguished from _event metadata_ by the fact that they may be
 conceptually shared between two events.
 
 Briefly, and non-normatively, event context attributes are data about
-the representation of the event data within the event, not about the
+the _representation of the event data within the event_, not about the
 event itself, nor about the event data itself, nor about the occurrence
 the event describes.
 
